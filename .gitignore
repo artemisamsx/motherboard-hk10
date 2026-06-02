@@ -3,3 +3,6 @@ gerber/
 fp-info-cache
 _autosave-*
 ~*.lck
+*.FCBak
+*.step
+*.3mf
