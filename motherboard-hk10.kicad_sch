@@ -963,6 +963,15 @@
 		(uuid "f202141e-c20d-4cac-b016-06a44f2ecce8")
 	)
 	(bus_entry
+		(at 30.48 247.65)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f38f90ae-73cb-471b-b048-2ec16b53635b")
+	)
+	(bus_entry
 		(at 30.48 53.34)
 		(size -2.54 2.54)
 		(stroke
@@ -1599,6 +1608,16 @@
 			(type default)
 		)
 		(uuid "4118ca42-cbf5-4007-8f00-3c853caebfae")
+	)
+	(wire
+		(pts
+			(xy 30.48 247.65) (xy 41.91 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4132b484-b5e2-4972-834c-adb7fca15d36")
 	)
 	(wire
 		(pts
@@ -2639,6 +2658,16 @@
 			(type default)
 		)
 		(uuid "ac264c30-3e9a-4be2-b97a-9949b68bd497")
+	)
+	(bus
+		(pts
+			(xy 27.94 242.57) (xy 27.94 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ada1c94e-4470-40a3-b50d-68908039024c")
 	)
 	(bus
 		(pts
@@ -3900,6 +3929,16 @@
 		)
 		(uuid "8d9a3ecc-539f-41da-8099-d37cea9c28e7")
 	)
+	(label "CLK"
+		(at 30.48 247.65 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "8fd28f95-f272-4273-9469-925eee606f1b")
+	)
 	(label "~{EXTWAIT}"
 		(at 179.07 125.73 180)
 		(effects
@@ -4654,7 +4693,7 @@
 	)
 	(sheet
 		(at 41.91 238.76)
-		(size 29.21 10.16)
+		(size 29.21 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4680,7 +4719,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 41.91 249.6062 0)
+			(at 41.91 252.1462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4703,6 +4742,16 @@
 		(pin "RESET" output
 			(at 41.91 245.11 180)
 			(uuid "2bf3f24b-fd30-41a7-a274-9b519491916b")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "CLK" input
+			(at 41.91 247.65 180)
+			(uuid "b7c3abb3-fb55-4dc1-b8ea-45dc47698f31")
 			(effects
 				(font
 					(size 1.524 1.524)
