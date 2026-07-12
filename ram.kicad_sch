@@ -3461,7 +3461,7 @@
 			(uuid "585819ae-ea97-462d-b721-ee07b43ece32")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "U1")
 					(unit 1)
@@ -3618,7 +3618,7 @@
 			(uuid "e550c2c8-2970-49c1-af5a-e118415b14be")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "U2")
 					(unit 1)
@@ -3696,7 +3696,7 @@
 			(uuid "0c7a4b18-4f87-4530-9664-42ea05ddb3cf")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "#PWR05")
 					(unit 1)
@@ -3774,7 +3774,7 @@
 			(uuid "7fa0dac8-3c7a-41e3-abec-5a25513b953e")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "#PWR06")
 					(unit 1)
@@ -3852,7 +3852,7 @@
 			(uuid "b38839ce-5ed1-4137-8d01-8e29148f2f0d")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "#PWR01")
 					(unit 1)
@@ -3933,7 +3933,7 @@
 			(uuid "8c4bbe2b-6fb3-4548-8dd3-0f1711d4f6b1")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "C1")
 					(unit 1)
@@ -4011,7 +4011,7 @@
 			(uuid "5b484aaf-46b1-4f93-a082-ea4e63e72dd8")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "#PWR03")
 					(unit 1)
@@ -4089,7 +4089,7 @@
 			(uuid "2157593c-310f-447e-8a97-4b9a8bb259bb")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "#PWR02")
 					(unit 1)
@@ -4170,7 +4170,7 @@
 			(uuid "22bf7020-c313-444e-b812-8d62167db083")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "C2")
 					(unit 1)
@@ -4248,7 +4248,7 @@
 			(uuid "8c964be6-6c78-49c2-9297-d6e2f99f7949")
 		)
 		(instances
-			(project "motherboard-101"
+			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ad4d0ed"
 					(reference "#PWR04")
 					(unit 1)

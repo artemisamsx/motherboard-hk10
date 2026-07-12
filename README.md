@@ -1,3 +1,3 @@
-# Artemisa MSX - Model 101 Motherboard 
+# Artemisa MSX - Model HK-10 Motherboard 
 
-This repository contains the KiCad project files for the Model 101 motherboard.
+This repository contains the KiCad project files for the Model HK-10 motherboard.
