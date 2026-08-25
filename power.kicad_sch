@@ -2666,7 +2666,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bc193e3-af5b-42cb-9143-2bdd0aed7e88")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR082"
 			(at 209.55 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -2727,7 +2727,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR030")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -2744,7 +2744,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "107098e4-2dee-41b5-889c-a25d8586da8c")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR084"
 			(at 222.25 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2805,7 +2805,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR023")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -2822,7 +2822,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "133de7bc-4d32-4864-b57d-433e9be9d852")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR085"
 			(at 233.68 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -2883,7 +2883,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR031")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -2901,7 +2901,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b959324-bcce-4c78-ac22-76364deb65de")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR078"
 			(at 93.98 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -2962,7 +2962,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR026")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -2979,7 +2979,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a1a1891-0642-41fe-8e5f-b766b6bed03f")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG02"
 			(at 71.12 70.485 0)
 			(hide yes)
 			(show_name no)
@@ -3039,7 +3039,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#FLG03")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -3057,7 +3057,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d15bd15-456a-4075-8df3-00c49f3f1310")
-		(property "Reference" "U29"
+		(property "Reference" "U20"
 			(at 211.6933 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3139,7 +3139,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "U29")
+					(reference "U20")
 					(unit 1)
 				)
 			)
@@ -3156,7 +3156,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "61b4f019-869c-4dc8-bbc9-57475bed8713")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG03"
 			(at 76.2 70.485 0)
 			(hide yes)
 			(show_name no)
@@ -3216,7 +3216,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#FLG02")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -3233,7 +3233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73ec26ef-ef43-42d0-8f70-9314cc5631b4")
-		(property "Reference" "C7"
+		(property "Reference" "C27"
 			(at 215.9 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3297,7 +3297,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "C7")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -3315,7 +3315,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7ab6f69d-7b4c-4039-975c-b5849759f5ba")
-		(property "Reference" "J9"
+		(property "Reference" "J2"
 			(at 48.26 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3385,7 +3385,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "J9")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -3403,7 +3403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f33b76e-9724-4a35-9256-7331ea806347")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR077"
 			(at 88.9 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3464,7 +3464,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR027")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -3481,7 +3481,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7ffde448-82b7-42a6-97c7-e5a94ab7c255")
-		(property "Reference" "C43"
+		(property "Reference" "C24"
 			(at 107.315 100.711 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3543,7 +3543,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "C43")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -3561,7 +3561,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ced7d26-3144-4621-a9f6-bbd06ce5feb3")
-		(property "Reference" "C45"
+		(property "Reference" "C26"
 			(at 116.205 115.951 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3623,7 +3623,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "C45")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -3720,7 +3720,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a496b621-7465-4f76-92ba-4af46913120a")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG04"
 			(at 81.28 70.485 0)
 			(hide yes)
 			(show_name no)
@@ -3780,7 +3780,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#FLG01")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -3797,7 +3797,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a8bcfecd-02dc-4f6c-9c2c-40399512760e")
-		(property "Reference" "C9"
+		(property "Reference" "C22"
 			(at 107.315 85.471 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3859,7 +3859,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "C9")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -3876,7 +3876,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b03cbe22-e27f-4d67-94ce-f3791ea117bf")
-		(property "Reference" "R25"
+		(property "Reference" "R2"
 			(at 231.14 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3940,7 +3940,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "R25")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -3957,7 +3957,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b73f7e28-73dc-44e8-9ea3-04eda92fa037")
-		(property "Reference" "C41"
+		(property "Reference" "C21"
 			(at 107.061 78.105 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4019,7 +4019,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "C41")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -4036,7 +4036,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9812e9e-cd5f-4e14-a9e3-93da15790c77")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR079"
 			(at 99.06 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -4097,7 +4097,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR024")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -4114,7 +4114,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cabb57b4-9126-4b96-896f-7f975f5256af")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR081"
 			(at 161.29 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -4175,7 +4175,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR025")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -4192,7 +4192,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cb3f29c8-110d-477b-acc3-20269a6142d7")
-		(property "Reference" "C42"
+		(property "Reference" "C23"
 			(at 107.061 93.345 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4254,7 +4254,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "C42")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -4271,7 +4271,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cd17e4cf-5e38-40f7-a0f4-bfcab7410c9e")
-		(property "Reference" "D4"
+		(property "Reference" "D1"
 			(at 117.348 65.786 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4335,7 +4335,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "D4")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -4352,7 +4352,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d68f32f0-ba70-40a8-8618-ce76316a21e4")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG01"
 			(at 66.04 70.485 0)
 			(hide yes)
 			(show_name no)
@@ -4412,7 +4412,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#FLG04")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -4430,7 +4430,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dca72475-efd9-4743-b6f8-02e9cf7addae")
-		(property "Reference" "C44"
+		(property "Reference" "C25"
 			(at 116.459 108.585 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4492,7 +4492,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "C44")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -4509,7 +4509,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd4ad092-fe75-4c84-9c5c-09717446ef85")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR076"
 			(at 83.82 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4570,7 +4570,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR033")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -4587,7 +4587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "de1ed0c6-5c0c-4ab0-80b7-4a370c614ba2")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR080"
 			(at 127 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -4648,7 +4648,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR034")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -4665,7 +4665,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e283ee74-8bae-4e85-a613-7d1468c3f892")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR083"
 			(at 209.55 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -4726,7 +4726,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "#PWR032")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -4743,7 +4743,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ece43cdf-91e3-451f-94cc-abc99f67a599")
-		(property "Reference" "R3"
+		(property "Reference" "R1"
 			(at 109.22 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4806,7 +4806,7 @@
 		(instances
 			(project "motherboard-hk10"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ae11ec9"
-					(reference "R3")
+					(reference "R1")
 					(unit 1)
 				)
 			)
