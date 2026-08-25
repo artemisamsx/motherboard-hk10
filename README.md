@@ -88,6 +88,15 @@ output filtering, etc.).
 
 See [CHANGELOG.md](CHANGELOG.md) for a history of board revisions.
 
+## Key components
+
+- **Clock generator**: [Epson SG-615P / SG-531P][1], a packaged crystal oscillator (SPXO)
+  used to generate the master clock.
+
 ## License
 
 This project is licensed under the [TAPR Open Hardware License](LICENSE.txt).
+
+---
+
+[1]: https://www.mouser.com/datasheet/2/137/SG_615P_en-1880245.pdf "Epson SG-615P / SG-531P datasheet"
