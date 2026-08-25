@@ -13,7 +13,36 @@ external wall-wart, unlike the Model 101 prototype. The adapter is a third-party
 a custom design: the [Meanwell RT-50B][1] was chosen. It provides the 5V, 12V and -12V
 rails required by the board.
 
-The adapter connects to the motherboard through a cable fitted with a JST connector.
+The adapter connects to the motherboard through a cable fitted with a JST connector. We
+settled on **JST-XH** (2.5mm pitch, 4 positions: +5V, +12V, -12V, GND) over other JST
+families such as PH: XH terminals are rated for ~3A per contact, giving headroom over PH's
+~2A, and XH is the de-facto standard for RC/LiPo balance connectors, which makes it easy to
+source pre-crimped cable assemblies from generic vendors rather than specialized suppliers
+like Mouser or Digikey.
+
+The pinout, matching the wire colors of the generic pre-crimped kits used, is:
+
+| Pin | Signal | Wire color |
+|---|---|---|
+| 1 | GND | Black |
+| 2 | +5V | Red |
+| 3 | -12V | White |
+| 4 | +12V | Yellow |
+
+One caveat worth recording: off-the-shelf "JST-XH balance cables" from the RC hobby market
+are typically wired with 26-28 AWG, since balance leads only carry sensing current, not
+power. For this power cable we need 22 AWG (or better) so the wire itself doesn't become the
+bottleneck. Pre-crimped 4-pin XH kits with 22 AWG wire are readily available on generic
+retail (e.g. Amazon Spain), so this doesn't require a specialized crimping tool or sourcing
+loose terminals.
+
+With a single shared GND return, the worst-case combined return current is the sum of the
++5V, +12V and -12V draws. The MSX standard caps the cartridge slots' power budget per slot
+at 300mA (+5V), 50mA (+12V) and 50mA (-12V)[3]. With the HK-10's 2 cartridge slots, and the
+~500mA the motherboard itself draws on +5V (per the Model 101 prototype, which doesn't use
++12V/-12V at all), the absolute worst case is ~1.1A on +5V and 100mA each on +12V/-12V — a
+combined return well within the XH terminal's ~3A rating and the 22 AWG wire's capacity, so
+a single GND pin is sufficient without needing a 5-pin connector with a doubled-up return.
 
 The RT-50B is a switching (SMPS) power supply, so its output rails can carry significant
 ripple and switching noise. On its own 5V rail, this noise is prone to leaking into the VDP's
@@ -73,3 +102,4 @@ The motherboard and the graphics card are connected by a 50-pin IDC cable.
 
 [1]: http://www.meanwelljapan.com/upload/pdf/RT-50/RT-50-SPEC.PDF "Meanwell RT-50B datasheet"
 [2]: https://www.microchip.com/en-us/product/mic1232 "Microchip MIC1232 product page"
+[3]: https://sysadminmosaic.ru/_media/msx/msx_technical_data_book/msx_technical_data_book_text.pdf "MSX Technical Data Book, section 1.5.4 Cartridge Power Capacity"
