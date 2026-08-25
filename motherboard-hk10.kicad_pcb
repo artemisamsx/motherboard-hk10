@@ -47,7 +47,7 @@
 		(capping no)
 		(filling no)
 		(aux_axis_origin 56.896 228.6)
-		(grid_origin 56.896 228.6)
+		(grid_origin 57.896 227.6)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -84,6 +84,58 @@
 			(scaleselection 1)
 			(outputdirectory "gerber")
 		)
+	)
+	(gr_line
+		(start 56.896 48.6)
+		(end 296.896 48.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "cef977a8-41ec-4ac0-bccf-2d1550d7db8c")
+	)
+	(gr_line
+		(start 56.896 228.6)
+		(end 56.896 48.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "0417e375-089e-42a6-a907-e4329f336fc4")
+	)
+	(gr_line
+		(start 296.896 48.6)
+		(end 296.896 228.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "689d7712-7d98-41ef-aa56-ee50fec7d224")
+	)
+	(gr_line
+		(start 296.896 228.6)
+		(end 56.896 228.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "35a0f7d9-92cc-4ab3-8f5d-053cc17810a7")
+	)
+	(point
+		(at 56.896 228.6)
+		(size 1)
+		(layer "Margin")
+		(uuid "14b7aba9-16cc-4e4c-83a2-fb35e83ee0ed")
+	)
+	(point
+		(at 57.896 227.6)
+		(size 1)
+		(layer "Margin")
+		(uuid "7ebdecf8-320f-40a2-bfae-ae37f96f2636")
 	)
 	(embedded_fonts no)
 )
