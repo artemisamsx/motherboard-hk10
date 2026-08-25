@@ -236,7 +236,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "artemisa:1N4448"
+		(symbol "PCM_artemisa:1N4448"
 			(pin_numbers
 				(hide yes)
 			)
@@ -367,7 +367,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "artemisa:2N2907"
+		(symbol "PCM_artemisa:2N2907"
 			(pin_numbers
 				(hide yes)
 			)
@@ -539,7 +539,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "artemisa:CP"
+		(symbol "PCM_artemisa:CP"
 			(pin_numbers
 				(hide yes)
 			)
@@ -708,7 +708,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "artemisa:Cap"
+		(symbol "PCM_artemisa:Cap"
 			(pin_numbers
 				(hide yes)
 			)
@@ -853,7 +853,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "artemisa:DIN8"
+		(symbol "PCM_artemisa:DIN8"
 			(pin_names
 				(offset 1.27)
 				(hide yes)
@@ -1364,7 +1364,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "artemisa:GND"
+		(symbol "PCM_artemisa:GND"
 			(power global)
 			(pin_numbers
 				(hide yes)
@@ -1469,7 +1469,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "artemisa:LM311"
+		(symbol "PCM_artemisa:LM311"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1777,7 +1777,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "artemisa:Relay"
+		(symbol "PCM_artemisa:Relay"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3179,7 +3179,7 @@
 		(uuid "ea745685-58a4-4364-a674-15381eadb187")
 	)
 	(symbol
-		(lib_id "artemisa:CP")
+		(lib_id "PCM_artemisa:CP")
 		(at 119.38 68.58 90)
 		(unit 1)
 		(body_style 1)
@@ -3340,7 +3340,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:Cap")
+		(lib_id "PCM_artemisa:Cap")
 		(at 139.7 73.66 0)
 		(unit 1)
 		(body_style 1)
@@ -3581,7 +3581,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:LM311")
+		(lib_id "PCM_artemisa:LM311")
 		(at 139.7 121.92 180)
 		(unit 1)
 		(body_style 1)
@@ -3838,7 +3838,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:CP")
+		(lib_id "PCM_artemisa:CP")
 		(at 182.88 138.43 0)
 		(mirror y)
 		(unit 1)
@@ -4080,7 +4080,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:Cap")
+		(lib_id "PCM_artemisa:Cap")
 		(at 171.45 95.25 0)
 		(mirror x)
 		(unit 1)
@@ -4556,7 +4556,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:GND")
+		(lib_id "PCM_artemisa:GND")
 		(at 201.93 90.17 0)
 		(unit 1)
 		(body_style 1)
@@ -4634,7 +4634,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:GND")
+		(lib_id "PCM_artemisa:GND")
 		(at 123.19 118.11 0)
 		(unit 1)
 		(body_style 1)
@@ -4712,7 +4712,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:GND")
+		(lib_id "PCM_artemisa:GND")
 		(at 182.88 147.32 0)
 		(unit 1)
 		(body_style 1)
@@ -4790,7 +4790,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:GND")
+		(lib_id "PCM_artemisa:GND")
 		(at 191.77 147.32 0)
 		(unit 1)
 		(body_style 1)
@@ -4868,7 +4868,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:GND")
+		(lib_id "PCM_artemisa:GND")
 		(at 139.7 80.01 0)
 		(unit 1)
 		(body_style 1)
@@ -4946,7 +4946,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:GND")
+		(lib_id "PCM_artemisa:GND")
 		(at 157.48 80.01 0)
 		(unit 1)
 		(body_style 1)
@@ -5024,7 +5024,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:DIN8")
+		(lib_id "PCM_artemisa:DIN8")
 		(at 217.17 77.47 0)
 		(unit 1)
 		(body_style 1)
@@ -5123,7 +5123,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:Relay")
+		(lib_id "PCM_artemisa:Relay")
 		(at 160.02 34.29 0)
 		(unit 1)
 		(body_style 1)
@@ -5289,7 +5289,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:1N4448")
+		(lib_id "PCM_artemisa:1N4448")
 		(at 148.59 34.29 90)
 		(unit 1)
 		(body_style 1)
@@ -5450,7 +5450,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:GND")
+		(lib_id "PCM_artemisa:GND")
 		(at 151.13 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -5528,7 +5528,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:2N2907")
+		(lib_id "PCM_artemisa:2N2907")
 		(at 151.13 46.99 0)
 		(mirror x)
 		(unit 1)
@@ -5613,7 +5613,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:LM311")
+		(lib_id "PCM_artemisa:LM311")
 		(at 147.32 152.4 0)
 		(unit 2)
 		(body_style 1)
@@ -5712,7 +5712,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:GND")
+		(lib_id "PCM_artemisa:GND")
 		(at 139.7 162.56 0)
 		(unit 1)
 		(body_style 1)
@@ -5868,7 +5868,7 @@
 		)
 	)
 	(symbol
-		(lib_id "artemisa:Cap")
+		(lib_id "PCM_artemisa:Cap")
 		(at 147.32 152.4 0)
 		(unit 1)
 		(body_style 1)
