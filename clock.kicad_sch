@@ -2263,7 +2263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 171.45 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -2456,7 +2456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 179.07 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -2769,7 +2769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:SG-531"
+		(property "Footprint" "Oscillator:Oscillator_SeikoEpson_SG-8002DC"
 			(at 92.71 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2932,7 +2932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 111.76 73.025 0)
 			(hide yes)
 			(show_name no)
@@ -3047,7 +3047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 86.36 64.77 0)
 			(hide yes)
 			(show_name no)

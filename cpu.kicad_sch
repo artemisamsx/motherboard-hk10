@@ -7668,7 +7668,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-40_600"
+		(property "Footprint" "Package_DIP:DIP-40_W15.24mm_Socket"
 			(at 148.59 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -7861,7 +7861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 210.82 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7994,7 +7994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 210.82 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8127,7 +8127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 210.82 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8260,7 +8260,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 210.82 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -8393,7 +8393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 210.82 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -8527,7 +8527,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 74.93 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -8661,7 +8661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 74.93 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -8794,7 +8794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 69.85 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -8909,7 +8909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 111.76 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -9260,7 +9260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 215.9 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -10199,7 +10199,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 156.21 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10358,7 +10358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 50.8 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -10649,7 +10649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 58.42 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -10730,7 +10730,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 76.2 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -11021,7 +11021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 83.82 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11102,7 +11102,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-20_300"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 101.6 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -11393,7 +11393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 109.22 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -11628,7 +11628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 77.47 125.73 0)
 			(hide yes)
 			(show_name no)

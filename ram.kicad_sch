@@ -3343,7 +3343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-28_600"
+		(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
 			(at 128.27 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3500,7 +3500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-28_600"
+		(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
 			(at 207.01 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3893,7 +3893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 134.62 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4130,7 +4130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 213.36 48.26 0)
 			(hide yes)
 			(show_name no)

@@ -3053,7 +3053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-8_300"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 209.55 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3229,7 +3229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 217.17 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3310,7 +3310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:JST_XH-4"
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
 			(at 49.53 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3474,7 +3474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Radial_capacitor"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 111.76 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -3554,7 +3554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Radial_capacitor"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 111.76 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3790,7 +3790,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Radial_capacitor"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 111.76 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3871,7 +3871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Axial_resistor"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 233.68 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -3950,7 +3950,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Radial_capacitor"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 111.76 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -4185,7 +4185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Radial_capacitor"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 111.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4266,7 +4266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:LED"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 120.65 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -4423,7 +4423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Radial_capacitor"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 111.76 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4737,7 +4737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Axial_resistor"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 110.49 77.47 90)
 			(hide yes)
 			(show_name no)

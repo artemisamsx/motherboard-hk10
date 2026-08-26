@@ -3421,7 +3421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-32_600"
+		(property "Footprint" "Package_DIP:DIP-32_W15.24mm_Socket"
 			(at 139.7 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3671,7 +3671,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Jumper"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 110.49 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -3756,7 +3756,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Jumper"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 118.11 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -3841,7 +3841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Jumper"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 125.73 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -3926,7 +3926,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Jumper"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 133.35 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4010,7 +4010,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:RN4"
+		(property "Footprint" "Resistor_THT:R_Array_SIP5"
 			(at 129.54 131.445 0)
 			(hide yes)
 			(show_name no)
@@ -4490,7 +4490,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 147.32 44.45 0)
 			(hide yes)
 			(show_name no)

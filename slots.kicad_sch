@@ -12324,7 +12324,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:GFX_conn"
+		(property "Footprint" "Connector_IDC:IDC-Header_2x25_P2.54mm_Vertical"
 			(at 367.03 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -13251,7 +13251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:RN6"
+		(property "Footprint" "Resistor_THT:R_Array_SIP7"
 			(at 219.71 40.005 0)
 			(hide yes)
 			(show_name no)
@@ -13346,7 +13346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 182.88 60.325 0)
 			(hide yes)
 			(show_name no)
@@ -13461,7 +13461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 156.21 80.645 0)
 			(hide yes)
 			(show_name no)
@@ -13577,7 +13577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 256.54 76.835 0)
 			(hide yes)
 			(show_name no)
@@ -13693,7 +13693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 229.87 70.485 0)
 			(hide yes)
 			(show_name no)
@@ -14042,7 +14042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 154.94 49.53 0)
 			(hide yes)
 			(show_name no)

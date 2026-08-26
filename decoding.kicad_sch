@@ -6533,7 +6533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 101.6 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -6648,7 +6648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 134.62 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -6763,7 +6763,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 101.6 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -6878,7 +6878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 134.62 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -6993,7 +6993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 184.15 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -7108,7 +7108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 161.29 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -7223,7 +7223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 205.74 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -7332,7 +7332,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 205.74 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -7447,7 +7447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 99.06 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -7556,7 +7556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 165.1 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -7671,7 +7671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 137.16 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7786,7 +7786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 137.16 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -7901,7 +7901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 137.16 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -8016,7 +8016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-16_300"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 137.16 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -8137,7 +8137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 165.1 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -8252,7 +8252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-16_300"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 153.67 276.86 90)
 			(hide yes)
 			(show_name no)
@@ -8373,7 +8373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 92.71 295.91 0)
 			(hide yes)
 			(show_name no)
@@ -8488,7 +8488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 113.03 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -8603,7 +8603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 134.62 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -8718,7 +8718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 158.75 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -8833,7 +8833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 184.15 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -8948,7 +8948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 184.15 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -9063,7 +9063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 95.25 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -9178,7 +9178,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:DIP-14_300"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 181.61 335.28 0)
 			(hide yes)
 			(show_name no)
@@ -9451,7 +9451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 182.88 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -9686,7 +9686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 107.95 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -9921,7 +9921,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 130.81 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10156,7 +10156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 129.54 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -10391,7 +10391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 173.99 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10938,7 +10938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_artemisa:Disc_capacitor"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 195.58 160.02 0)
 			(hide yes)
 			(show_name no)
