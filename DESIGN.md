@@ -98,6 +98,28 @@ right-hand side. The cartridge slots are centered on the motherboard.
 The rear end of the enclosure houses the RT-50B power supply and the HKG-99xx graphics card.
 The motherboard and the graphics card are connected by a 50-pin IDC cable.
 
+### Cartridge alignment guides
+
+Rather than relying on a bare slot cut into the enclosure shell with a spring to guide
+cartridges into their card-edge connectors (as in the Model 101 prototype), the HK-10
+enclosure will include a pair of 3D-printed guide housings, one per cartridge slot. Each
+housing is tub-shaped, covering the full footprint of the cartridge on top of the
+motherboard with an opening for the card-edge connector, and with internal ribs matching
+the notches standard on MSX cartridges to physically block reversed insertion, which could
+otherwise damage the cartridge's own edge connector.
+
+With a cartridge fully seated in its slot, there's a measured 5mm clearance between the
+bottom of the cartridge shell and the motherboard PCB, which the guide housing's floor
+occupies.
+
+Each guide housing is fastened to the motherboard with 2x M3 screws, which also pass
+through into the enclosure shell, tying housing, PCB and enclosure into a single rigid
+assembly. This accounts for 4 of the board's mounting holes (2 per slot), placed close to
+each slot connector, one at each end. Sitting directly against the connectors, these give
+the slot area — the heaviest, most heavily stressed part of the board — more direct
+support than a single mounting hole at the board's geometric center would, so no separate
+central mounting hole is needed.
+
 ---
 
 [1]: http://www.meanwelljapan.com/upload/pdf/RT-50/RT-50-SPEC.PDF "Meanwell RT-50B datasheet"
