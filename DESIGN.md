@@ -13,6 +13,11 @@ external wall-wart, unlike the Model 101 prototype. The adapter is a third-party
 a custom design: the [Meanwell RT-50B][1] was chosen. It provides the 5V, 12V and -12V
 rails required by the board.
 
+Mains enters through a panel-mounted IEC 320 C14 inlet with an integrated fuse holder and
+rocker switch, specifically the Filn AC-14-F15 (an Asian vendor part). The C14 is used
+rather than a two-pole inlet so the enclosure carries a protective-earth connection, which
+the RT-50B requires.
+
 The adapter connects to the motherboard through a cable fitted with a JST connector. We
 settled on **JST-XH** (2.5mm pitch, 4 positions: +5V, +12V, -12V, GND) over other JST
 families such as PH: XH terminals are rated for ~3A per contact, giving headroom over PH's
@@ -88,9 +93,8 @@ fanout (both parts are rated for 10 LSTTL loads) nor meaningfully degrades the c
 
 ## Enclosure layout
 
-The enclosure targets a 25x30cm internal perimeter (this may grow depending on the final
-enclosure design and wall thickness). The motherboard, at 24x18cm, sits centered and pushed
-against the front end of the enclosure.
+The enclosure targets a 25x33.5cm internal perimeter. The motherboard, at 24x18cm, sits
+centered and pushed against the front end of the enclosure.
 
 On that front end are the joystick ports and the keyboard port. The cassette port sits on the
 right-hand side. The cartridge slots are centered on the motherboard.
